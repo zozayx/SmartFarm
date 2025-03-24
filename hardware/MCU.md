@@ -1,5 +1,7 @@
 ## ESP32 DevKitC WROOM-32D V4 CP2102 개발보드
 
+![image](https://github.com/user-attachments/assets/03a95108-fa93-4bcb-9242-8274d0565c4d)
+
 ## 1. 구매 부품명
 - **ESP32 DevKitC WROOM-32D V4 CP2102 [CMODULE-40]**
 
