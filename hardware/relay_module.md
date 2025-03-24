@@ -1,6 +1,6 @@
 ## 4채널 5V 릴레이 모듈 [SZH-RLBG-012]
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/36efe93c-12dc-4045-886a-5e1d942a503f)
 
 ## 1. 구매 부품명
 - **[SMG-A] 아두이노 4채널 5V 릴레이 모듈 [SZH-RLBG-012]**
