@@ -1,4 +1,6 @@
-## Bulb and Socket (전구 + 전구구소켓 코드선)
+## Bulb and Socket (전구 + 전구소켓 코드선)
+
+![image](https://github.com/user-attachments/assets/4950cc9c-af3a-4010-bccf-4bc516807de7)
 
 ## 구성 요소
 - 220V AC 전구
